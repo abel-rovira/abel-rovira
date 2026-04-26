@@ -15,6 +15,7 @@
 <h2><img src="https://i.pinimg.com/originals/82/2a/ba/822aba46a059fddb0f1b42d99f77cfd8.gif" width="35" /> <b>Tech Stack<b/></h2>
     
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
