@@ -15,8 +15,6 @@
 <h2><img src="https://i.pinimg.com/originals/82/2a/ba/822aba46a059fddb0f1b42d99f77cfd8.gif" width="35" /> <b>Tech Stack<b/></h2>
     
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
@@ -25,6 +23,9 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=react#" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+
 
   <img src="https://skillicons.dev/icons?i=sql" height="40" alt="MySQL"/>
 </div>
