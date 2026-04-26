@@ -24,5 +24,7 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=react#" height="40" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js" />
+
   <img src="https://skillicons.dev/icons?i=sql" height="40" alt="MySQL"/>
 </div>
